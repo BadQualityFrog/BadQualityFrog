@@ -7,14 +7,32 @@ I want to take an internship where I can improve my skills in data analysis and 
 
 ___
 
-<h2>Skills</h2>
+<h2>Interests</h2>
 
 <ul>
   <li>Decision-Making</li>
   <li>Creative Problem Solving</li>
   <li>Organization Skills</li>
   <li>Coordination and Collective Teamwork</li>
-  <li>Python</li>
-  <li>Java</li>
-  <li>HTML</li>
+  <li>Digital Illustration</li>
+  <li>Languages: Python, Java, HTML and CSS</li>
+</ul>
+
+___
+
+<h2>Skills</h2>
+
+<ul>
+  <li>Languages: Python, Java, HTML and CSS</li>
+  <li>Tools: Github, VSCode, Intellij, Eclipse, Terminal/Command Prompt</li>
+</ul>
+
+___
+
+<h2>Links</h2>
+
+<ul>
+  <li>Linkedin: [Ramzi Masri]https://www.linkedin.com/in/ramzi-masri-3a3821386/</li>
+  <li>College Email: [masri.ra@northeastern.edu]masri.ra@northeastern.edu</li>
+  <li>Business Email: [ramzimasri.b@gmail.com]ramzimasri.b@gmail.com</li>
 </ul>
