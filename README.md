@@ -8,3 +8,13 @@ I want to take an internship where I can improve my skills in data analysis and 
 ___
 
 <h2>Skills</h2>
+
+<ul>
+  <li>Decision-Making</li>
+  <li>Creative Problem Solving</li>
+  <li>Organization Skills</li>
+  <li>Coordination and Collective Teamwork</li>
+  <li>Python</li>
+  <li>Java</li>
+  <li>HTML</li>
+</ul>
