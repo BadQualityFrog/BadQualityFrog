@@ -24,7 +24,7 @@ ___
 
 <ul>
   <li>Languages: Python, Java, HTML and CSS</li>
-  <li>Tools: Github, VSCode, Intellij, Eclipse, Terminal/Command Prompt</li>
+  <li>Tools: Github, Excel, VSCode, Intellij, Eclipse, Terminal/Command Prompt</li>
 </ul>
 
 ___
