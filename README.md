@@ -32,7 +32,7 @@ ___
 <h2>Links</h2>
 
 <ul>
-  <li>Linkedin: https://www.linkedin.com/in/ramzi-masri-3a3821386/ </li>
+  <li>Linkedin: <a href="https://www.linkedin.com/in/ramzi-masri-3a3821386/">Ramzi Masri</a> </li>
   <li>College Email: masri.ra@northeastern.edu </li>
   <li>Business Email: ramzimasri.b@gmail.com </li>
 </ul>
