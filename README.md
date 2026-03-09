@@ -1,9 +1,9 @@
-## Hi, I’m Ramzi Masri, a second-year Data Science and Economics student at Northeastern University. 
-I’m interested in data analysis and its approach to creative decision making. I’ve been learning Objected Oriented Java design and Matrices in my coursework. 
+## Hi, I’m Ramzi Masri, an undergraduate student at Northeastern University majoring in Data Science and Economics. 
+I’m interested in data analysis and its approach to creative decision making. 
 
-A few years ago, I took a small internship at an investment and shareholder company and learned how they analyze data of medical companies and consider further investment or not. Last semester, I presented the consequences of disinformation with a partner and included data on disinformation found on social media and news articles. We also discussed possible solutions to prevent disinformation based on the data gathered. 
+A few years ago, I took a small internship at an investment and shareholder company and learned how they analyze data of medical companies and consider further investment or not. Recently, I've completed a Data Analysis project called MedVeritas. Along with 3 other people, we performed Exploratory Data Analysis with over 350,000 patient-written reviews from over 5,000 unique drugs. We also utilized TextBlob and Vader Sentiment libraries to analyze and process textual data from reviews and provide sentiment scores.
 
-I want to take an internship where I can improve my skills in data analysis and decision making in either social or economic scenarios.
+I want to take an internship where I can apply Explanatory Data Analysis and help gather insights to make business decisions in multiple fields such as Economics. 
 
 ___
 
@@ -15,7 +15,7 @@ ___
   <li>Organization Skills</li>
   <li>Coordination and Collective Teamwork</li>
   <li>Digital Illustration</li>
-  <li>Languages: Python, Java, HTML and CSS</li>
+  <li>Languages: Python, SQL, Java, HTML and CSS</li>
 </ul>
 
 ___
@@ -24,7 +24,7 @@ ___
 
 <ul>
   <li>Languages: Python, Java, HTML and CSS</li>
-  <li>Tools: Github, Excel, VSCode, Intellij, Eclipse, Terminal/Command Prompt</li>
+  <li>Tools: Github, Excel, PowerBI, Tableau, VSCode, Intellij, Eclipse</li>
 </ul>
 
 ___
@@ -32,7 +32,7 @@ ___
 <h2>Links</h2>
 
 <ul>
-  <li>Linkedin: Ramzi Masri
+  <li>Linkedin: https://www.linkedin.com/in/ramzi-masri-3a3821386/ </li>
   <li>College Email: masri.ra@northeastern.edu </li>
   <li>Business Email: ramzimasri.b@gmail.com </li>
 </ul>
