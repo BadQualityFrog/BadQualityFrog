@@ -15,7 +15,6 @@ ___
   <li>Organization Skills</li>
   <li>Coordination and Collective Teamwork</li>
   <li>Digital Illustration</li>
-  <li>Languages: Python, SQL, Java, HTML and CSS</li>
 </ul>
 
 ___
@@ -24,7 +23,7 @@ ___
 
 <ul>
   <li>Languages: Python, Java, HTML and CSS</li>
-  <li>Tools: Github, Excel, PowerBI, Tableau, VSCode, Intellij, Eclipse</li>
+  <li>Tools: Github, Excel, PowerBI, Tableau, Slack, VSCode</li>
 </ul>
 
 ___
